@@ -12,4 +12,6 @@ Currently supported browsers:
  - Google Chrome
  - Mozilla Firefox
  - Opera
- 
+
+
+ Click [here](https://github.com/huskeee/homerun/releases) to go to the releases page and download Homerun.
