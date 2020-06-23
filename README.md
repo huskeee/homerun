@@ -1,4 +1,5 @@
 ## Homerun: killswitch for browsers
+![Homerun logo](https://github.com/huskeee/homerun/raw/master/image/homerun.png)
 Not everyone of us gets the privacy they deserve. Because of that, people who live under rather problematic conditions (e.g a person living in a toxic household) can get in great danger if someone finds them looking at something "they're not supposed to".
 
 **Homerun** helps the user to avoid such situations by providing them with a killswitch for all open browser windows. Whenever the user feels endangered, instead of manically clicking "Close" on every browser window, they can just press **Ctrl-Home**. This will "get you home", closing all browser windows whether they are active or not. 
@@ -14,4 +15,4 @@ Currently supported browsers:
  - Opera
 
 
- Click [here](https://github.com/huskeee/homerun/releases) to go to the releases page and download Homerun.
+ Click [here](https://github.com/huskeee/homerun/releases) to visit the releases page and download Homerun.
