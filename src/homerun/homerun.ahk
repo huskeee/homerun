@@ -12,7 +12,7 @@ IniRead, CloseOpera, homerun.ini, Homerun Settings, CloseOpera, 1
 IniRead, ShowSplash, homerun.ini, Homerun Settings, ShowSplash, 1
 
 ; tray icon and menu settings
-Menu, Tray, Icon, homerun.exe, 1
+Menu, Tray, Icon, homerun.ico, 1
 Menu, Tray, Tip, Homerun
 Menu, Tray, NoStandard
 Menu, Tray, Add, Settings, Settings
